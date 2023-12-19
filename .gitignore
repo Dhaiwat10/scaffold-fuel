@@ -1,0 +1,6 @@
+.turbo
+node_modules
+.fuels
+src/sway-api
+sway-contracts/out
+.next
